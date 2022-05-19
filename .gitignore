@@ -19,3 +19,4 @@ __pycache__
 dist/
 lib/
 !client/python/ovmsclient/lib
+.DS_Store
